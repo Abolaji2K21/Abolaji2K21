@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **JavaScript, Golang** ,**Java, Python, Spring**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abolaji2K21](https://github.com/Abolaji2K21)
+- 👨‍💻 you can reach me at Abisoyeabolaji2k21@gmail.com
 
 - 💬 Ask me about **Java, Python, Spring**
 
