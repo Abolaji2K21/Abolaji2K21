@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abolaji2k21" alt="abolaji2k21" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, Golang** ,**Java, Python, Spring**
+- 🌱 I’m currently learning **JavaScript, Golang** ,**Java, Python, Spring**, **React, Html, Css**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abolaji2K21](https://github.com/Abolaji2K21)
 - 👨‍💻 you can reach me at Abisoyeabolaji2k21@gmail.com
